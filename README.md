@@ -2,7 +2,7 @@
 
 ## 🎥 Preview YouTube
 
-[![Watch the video](https://img.youtube.com/vi/G5JQNcjekKQ/maxresdefault.jpg)](https://youtu.be/G5JQNcjekKQ)
+[![Rhodes Kitchen Preview](https://img.youtube.com/vi/G5JQNcjekKQ/hqdefault.jpg)](https://youtu.be/G5JQNcjekKQ)
 
 ## 💬 Discord
 
