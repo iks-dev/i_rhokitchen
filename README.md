@@ -1,6 +1,9 @@
 ## Preview on YouTube
 
-[![Rhodes Kitchen Preview](https://github.com/user-attachments/assets/a7d0c8a4-ff7b-4e5c-bacf-ac9fc59914a9)](https://youtu.be/G5JQNcjekKQ)
+<p>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="18" style="vertical-align:middle;"/>
+  <strong>Preview on YouTube</strong>
+</p>
 
 ---
 
