@@ -1,12 +1,9 @@
 # i_rhokitchen
-Rhodes Kitchen YMAP
 
-## Preview YouTube
+## 🎥 Preview YouTube
 
-Watch the mapping preview here:
-https://youtu.be/G5JQNcjekKQ
+[![Watch the video](https://img.youtube.com/vi/G5JQNcjekKQ/maxresdefault.jpg)](https://youtu.be/G5JQNcjekKQ)
 
-## Discord
+## 💬 Discord
 
-Join the community and get support here:
-https://discord.gg/QQDu9Tpxyt
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QQDu9Tpxyt)
