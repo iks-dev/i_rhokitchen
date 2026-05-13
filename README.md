@@ -1,4 +1,4 @@
-## Preview on YouTube
+## <p> <img src="https://cdn.simpleicons.org/youtube/FF0000" width="18" style="vertical-align:middle;"/> </p> Preview on YouTube
 
 <p>
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="18" style="vertical-align:middle;"/>
